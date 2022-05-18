@@ -67,6 +67,7 @@ const App = () => {
    if (error) return <div>Something probably went wrong...</div>
 
  return (<Wrapper>
+   <div><h1>EZ Cart - The Fake Web Shop</h1></div>
      <Drawer anchor="right" open={cartOpen} onClose={() => setCartOpen(false)}>
         <Cart 
         cartItems={cartItems} 
