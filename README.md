@@ -1,6 +1,15 @@
-# Getting Started with Create React App
+# EZ Cart
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made using ReactJS, TypeScript, Material UI. This is a cart system in order to get track of products that are picked for ordering and shows the total bill before payment. Once added, the cart items could be increased or decreased in quantity. Any item can be removed from the cart list as well.
+
+## The project could be live viewed at 
+
+https://ez-cart.netlify.app/
+
+## Tech Stack 
+  1. ReactJS
+  2. TypeScript
+  3. Material UI
 
 ## Available Scripts
 
@@ -13,11 +22,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -39,8 +43,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Motive behind the project 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+The motive was to learn the basics of TypeScript and getting introduced to Material UI
 
-To learn React, check out the [React documentation](https://reactjs.org/).
