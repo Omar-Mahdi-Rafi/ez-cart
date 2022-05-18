@@ -10,6 +10,7 @@ https://ez-cart.netlify.app/
   1. ReactJS
   2. TypeScript
   3. Material UI
+  4. NodeJS
 
 ## Available Scripts
 
